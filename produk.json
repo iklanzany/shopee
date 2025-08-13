@@ -1,0 +1,14 @@
+[
+  {
+    "nama": "Nama Produk Shopee",
+    "harga": "Rp 99.000",
+    "link": "https://shopee.co.id/affiliate-link-kamu",
+    "gambar": "https://cf.shopee.co.id/file/1234567890abcdef"
+  },
+  {
+    "nama": "Produk Kedua yang Keren",
+    "harga": "Rp 150.000",
+    "link": "https://shopee.co.id/affiliate-link-kamu-2",
+    "gambar": "https://cf.shopee.co.id/file/abcdef9876543210"
+  }
+]
